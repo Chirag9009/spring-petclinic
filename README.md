@@ -1,6 +1,5 @@
 # Changes to check concourse pipeline
 ## Hello world from git repo
-### Hmmm...
 Another change 
 
 # Spring PetClinic Sample Application [![Build Status](https://github.com/spring-projects/spring-petclinic/actions/workflows/maven-build.yml/badge.svg)](https://github.com/spring-projects/spring-petclinic/actions/workflows/maven-build.yml)
